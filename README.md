@@ -14,6 +14,7 @@ Copying for personal or educational use is permitted, as well as linking to the 
 
 | Date      | Description                                                                                                    | # parts |
 |-----------|----------------------------------------------------------------------------------------------------------------|---------|
+| Dec 2025  | <a href="docs/SumlockAnita.pdf">The World's First Electronic Calculators, a Personal and Computing History     | 1 part  |
 | Oct 2025  | <a href="docs/WireguardCoSim.pdf">The Wireguard FPGA Advanced Co-simulation Environment</a>                    | 1 part  |
 | Sep 2025  | <a href="docs/python_gui.pdf">Creating GUIs for Software and Logic Development</a>                             | 1 part  |
 | Aug 2025  | <a href="docs/pcie_model.pdf">A PCIe Model in C</a>                                                            | 1 part  |
