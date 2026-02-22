@@ -4,7 +4,7 @@ Here are collected all my various articles, published on LinkedIn and elsewhere,
 
 ## Copyright
 
-All text and images in these documents are **Copyright &copy; 2021 - 2025 Simon Southwell. All rights reserved.**
+All text and images in these documents are **Copyright &copy; 2021 - 2026 Simon Southwell. All rights reserved.**
 
 Copying for personal or educational use is permitted, as well as linking to the documents from external sources, so long as the author of the material is identified. All other uses require explicit written permission from the author. Contact info@anita-simulators.org.uk for any queries.
 
