@@ -33,7 +33,7 @@ Copying for personal or educational use is permitted, as well as linking to the 
 | Oct 2023  | <a href="docs/soc_modelling.pdf">Modelling SoC Systems with C++</a>                                            | 2 parts |
 | Sep 2023  | <a href="docs/fir.pdf">Finite Impulse Response Filters</a>                                                     | 2 parts |
 | Aug 2023  | <a href="docs/rv32_freertos.pdf">Introduction to Real-Time Operating Systems</a>                               | 4 parts |
-| Jun 2023  | <a href="docs/osvvm_cosimulation_all.pdf">Co-simulating with OSVVM</a> (Updated July 2026)                     | 6 parts |
+| Jun 2023  | <a href="docs/osvvm_cosimulation_all.pdf">Co-simulating with OSVVM</a> (Updated August 2026)                   | 7 parts |
 | Oct 2022  | <a href="docs/cpu_logic_design.pdf">Processor Design</a>                                                       | 4 parts |
 | Sep 2022  | <a href="docs/bus_protocols.pdf">SoC Bus and Interconnect Protocols</a>                                        | 2 parts |
 | Sep 2022  | <a href="docs/ecc.pdf">Introduction to Error Detection and Correction</a>                                      | 2 parts |
